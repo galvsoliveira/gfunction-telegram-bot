@@ -1,4 +1,5 @@
 # Telegram Bot in production with Google Cloud Functions
+Welcome to this tutorial on setting up a Telegram bot using Google Cloud Functions and Google Sheets API. In this tutorial, we will walk you through the process of creating a Telegram bot, setting up a Google Cloud Functions project to host your bot's code, and using Google Sheets API to store and retrieve data from a Google Sheets spreadsheet. By the end of this tutorial, you will have a fully functioning Telegram bot that can interact with users and store their messages in a Google Sheets spreadsheet. Let's get started!
 
 ## Part 1: Configure your Google API console
 First of all, you will need to obtain the `client_id`, `client_secret`, and `refresh_token`, you will need to create a project in the Google API Console and set up OAuth 2.0 credentials for it. Here are the steps you can follow:
