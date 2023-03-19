@@ -9,3 +9,5 @@ With the log you can find the URL to the next code.
 2. Code to set the api:
 
 ```curl "https://api.telegram.org/bot<TELEGRAM_TOKEN>/setWebhook?url=<URL>"```
+
+Based on: https://github.com/FedericoTartarini/telegram-bot-cloud-function-youtube
