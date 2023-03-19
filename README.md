@@ -20,7 +20,10 @@ First of all, you will need to obtain the `client_id`, `client_secret`, and `ref
 After completing these steps, you will have your `client_id`, `client_secret`, and `refresh_token`, which you can use to authenticate with Google Sheets API.
 
 ## Part 2: Set up your Telegram Bot
-To set up a Telegram bot, you will need to create a new bot by talking to the BotFather on Telegram. Follow the instructions provided by BotFather to create a new bot and obtain its API token.
+1. Open Telegram and search for the `BotFather` bot.
+2. Send the message `/newbot` to `BotFather`.
+3. Follow the instructions to set a name and username for your bot.
+4. Once your bot is created, `BotFather` will give you a `BOT_TOKEN`.
 
 ## Part 3: Create your own function
 ```
